@@ -1,0 +1,14 @@
+html, body {
+    font-family: "Avenir Next", Helvetica, sans-serif;
+}
+
+body {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer-font {
+    font-size: small;
+    text-align: center;
+}

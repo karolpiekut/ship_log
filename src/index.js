@@ -1,27 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>ship log</title>
-    <style>
-        html, body {
-            font-family: "Avenir Next", Helvetica, sans-serif;
-        }
+import _ from 'lodash';
+import './style.css';
 
-        body {
-            width: 50%;
-            margin-left: auto;
-            margin-right: auto;
-        }
+function component() {
+    const element = document.createElement('div');
 
-        #footer-font {
-            font-size: small;
-        }
-
-    </style>
-</head>
-<body>
+    element.innerHTML = `
 <h1>ship_log</h1>
+<hr>
+<!--UPDATE BELOW-->
+<h3>day_13</h3>
+<h4>2023-11-28 13:15</h4>
+<p>Struggled a bit to find enough time during my lunch break. It's like there is so much to figure out that coding takes a back seat.</p>
+<hr>
+<h3>day_9-12</h3>
+<h4>2023-11-24 - 2023-11-27 backlog</h4>
+<p>No updates.</p>
 <hr>
 <h3>day_8</h3>
 <h4>2023-11-23 21:14</h4>
@@ -106,8 +99,10 @@ to f ind an ounce of will to start going.
     to switch on TV after work. It's getting late. Time to set sails for bed.
 </p>
 <hr>
-<footer>
-    <p id="footer-font">ship_log est.2023</p>
-</footer>
-</body>
-</html>
+        <footer>
+        <p id="footer-font">ship_log est.2023</p>
+</footer>`;
+    return element;
+}
+
+document.body.appendChild(component());
