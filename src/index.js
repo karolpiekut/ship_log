@@ -8,6 +8,10 @@ function component() {
 <h1>ship_log</h1>
 <hr>
 <!--UPDATE BELOW-->
+<h3>day_27</h3>
+<h4>2023-12-12 22:07</h4>
+<p>I have moved ship_log to my local Mac. I have decided that it needs to be build correctly using the best tools available. RaspberryPI seems alright, but it feels like a waste of time at the moment.</p>
+<hr>
 <h3>day_13</h3>
 <h4>2023-11-28 13:15</h4>
 <p>Struggled a bit to find enough time during my lunch break. It's like there is so much to figure out that coding takes a back seat.</p>
