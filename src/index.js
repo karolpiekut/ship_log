@@ -8,6 +8,10 @@ function component() {
 <h1>ship_log</h1>
 <hr>
 <!--UPDATE BELOW-->
+<h3>day_33</h3>
+<h4>2023-12-18 13:44</h4>
+<p>Need to find a better way to post. Also need a separate tab for the carnivore progress. Coding is not going as well as I hoped to. So far, I have managed to get this version published to GitHub pages, but in reality I am not sure whether I am even using the best tools for this. Need to look at React.</p>
+<hr>
 <h3>day_27</h3>
 <h4>2023-12-12 22:07</h4>
 <p>I have moved ship_log to my local Mac. I have decided that it needs to be build correctly using the best tools available. RaspberryPI seems alright, but it feels like a waste of time at the moment.</p>
