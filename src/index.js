@@ -8,6 +8,10 @@ function component() {
 <h1>ship_log</h1>
 <hr>
 <!--UPDATE BELOW-->
+<h3>day_69</h3>
+<h4>2024-01-23 13:44</h4>
+<p>Poetry, prose or the language of machines. That's where the real battle is.</p>
+<hr>
 <h3>day_33</h3>
 <h4>2023-12-18 13:44</h4>
 <p>Need to find a better way to post. Also need a separate tab for the carnivore progress. Coding is not going as well as I hoped to. So far, I have managed to get this version published to GitHub pages, but in reality I am not sure whether I am even using the best tools for this. Need to look at React.</p>
